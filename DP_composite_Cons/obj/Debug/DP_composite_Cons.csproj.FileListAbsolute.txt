@@ -1,0 +1,8 @@
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\bin\Debug\DP_composite_Cons.exe.config
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\bin\Debug\DP_composite_Cons.exe
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\bin\Debug\DP_composite_Cons.pdb
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\bin\Debug\DP_composite.dll
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\bin\Debug\DP_composite.pdb
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\obj\Debug\DP_composite_Cons.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\obj\Debug\DP_composite_Cons.exe
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite_Cons\obj\Debug\DP_composite_Cons.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP_composite", "DP_composite\DP_composite.csproj", "{8F8DEA58-4E2A-463D-8742-625434E46F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP_composite_Cons", "DP_composite_Cons\DP_composite_Cons.csproj", "{7259D9C0-05CC-4046-9D41-77217E735AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8DEA58-4E2A-463D-8742-625434E46F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8DEA58-4E2A-463D-8742-625434E46F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8DEA58-4E2A-463D-8742-625434E46F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8DEA58-4E2A-463D-8742-625434E46F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7259D9C0-05CC-4046-9D41-77217E735AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7259D9C0-05CC-4046-9D41-77217E735AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7259D9C0-05CC-4046-9D41-77217E735AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7259D9C0-05CC-4046-9D41-77217E735AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

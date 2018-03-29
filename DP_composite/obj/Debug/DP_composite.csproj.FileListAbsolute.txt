@@ -1,0 +1,4 @@
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite\bin\Debug\DP_composite.dll
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite\bin\Debug\DP_composite.pdb
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite\obj\Debug\DP_composite.dll
+C:\Users\CRM\Documents\projet\DP_composite\DP_composite\obj\Debug\DP_composite.pdb
